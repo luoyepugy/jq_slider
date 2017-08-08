@@ -1,0 +1,23 @@
+{
+  "name": "jq_slider",
+  "version": "0.1.0",
+  "description": "An easy slider plugin that rely on jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoyepugy/jq_slider.git"
+  },
+  "keywords": [
+    "jquery",
+    "slider"
+  ],
+  "author": "zhanghan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luoyepugy/jq_slider/issues"
+  },
+  "homepage": "https://github.com/luoyepugy/jq_slider#readme"
+}
