@@ -1,7 +1,7 @@
 {
-  "name": "{{projectName}}",
-  "version": "{{projectVersion}}",
-  "description": "{{projectDescription}}",
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "jquery",
     "slider"
   ],
-  "author": "zhanghan",
+  "author": "{{author}}",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luoyepugy/jq_slider/issues"
